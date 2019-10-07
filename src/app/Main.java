@@ -3,6 +3,7 @@ package app;
 public class Main {
 
   public static void main(String[] args) {
+	  // Test Comment
     Lexicon lex = new Lexicon();
 
     String newWord = lex.translate("food");
